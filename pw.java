@@ -4,4 +4,8 @@ class PW
 	{
 	 sout(hey);
 	}
+   Public void m2()
+	{
+	 sout(hey);
+	}
 }
